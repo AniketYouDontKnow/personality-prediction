@@ -1,5 +1,3 @@
-random
-re
 nltk
 pickle
 streamlit
